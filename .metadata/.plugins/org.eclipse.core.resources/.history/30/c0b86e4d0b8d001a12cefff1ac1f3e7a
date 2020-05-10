@@ -1,0 +1,5 @@
+package com.nuzrah.appone.dao;
+
+public class CarDao {
+
+}

@@ -1,0 +1,13 @@
+package com.nuzrah.appone.dao;
+
+public class CarDao {
+	private static CarDao newInstance = new CarDao();
+	
+	public static CarDao getInstance() {
+		return newInstance;
+	}
+	
+	private CarDao() {
+		
+	}
+}
